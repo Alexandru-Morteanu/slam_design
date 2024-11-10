@@ -1,0 +1,40 @@
+{
+  "name": "slam",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.46.1",
+    "all": "",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.11.11",
+    "html5-qrcode": "^2.3.8",
+    "lucide-react": "^0.456.0",
+    "next": "15.0.3",
+    "next-auth": "^4.24.10",
+    "qrcode.react": "^4.1.0",
+    "react": "19.0.0-rc-66855b96-20241106",
+    "react-calendar": "^5.1.0",
+    "react-dom": "19.0.0-rc-66855b96-20241106",
+    "react-qr-reader": "^3.0.0-beta-1",
+    "recharts": "^2.13.3",
+    "supabase": "^1.219.2",
+    "tailwind-merge": "^2.5.4",
+    "tailwindcss-animate": "^1.0.7",
+    "utils": "^0.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
